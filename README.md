@@ -1,2 +1,2 @@
-# quantum-learning-ensemble-iyq2025
-International Year of Quantum's QLE (Quantum Learning Ensemble) by improvscience.
+# Quantum-Learning-Ensemble
+International Year of Quantum (2025)'s QLE (Quantum Learning Ensemble) by improvscience.
